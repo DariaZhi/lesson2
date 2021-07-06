@@ -1,0 +1,43 @@
+body{
+    background-image: url(images/background.jpg);
+    background-size: 110%;
+    background-position: bottom;
+    }
+
+main{
+    width: 700px;
+    margin: 300px;
+}
+
+h1{
+   text-align: center;
+   font-family: Tahoma; 
+   background-color: darkgray;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   
+}
+
+div{
+    border: 3px solid darkgrey;
+    border-radius: 20px 0;
+    padding: 15px;
+    margin: 30px auto;
+}
+
+.second{
+    border: dashed darkgrey;
+}
+
+h2{
+    text-align: center;
+    color: chocolate;
+}
+
+p{
+    text-align: center; 
+}
+.more{
+    color: rgb(184, 40, 40);
+    text-align: right;
+}
